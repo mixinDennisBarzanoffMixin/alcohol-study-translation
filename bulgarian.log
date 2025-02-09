@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.10)  22 OCT 2024 10:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.10)  22 OCT 2024 10:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -967,12 +967,12 @@ File: images/Screenshot 2024-10-22 at 10.13.21.png Graphic file (type png)
 Package pdftex.def Info: images/Screenshot 2024-10-22 at 10.13.21.png  used on input line 204.
 (pdftex.def)             Requested size: 452.9679pt x 375.89915pt.
  [6 <./images/Screenshot 2024-10-22 at 10.12.52.png>] [7 <./images/Screenshot 2024-10-22 at 10.13.21.png>]
-Overfull \hbox (18.13301pt too wide) in paragraph at lines 245--247
+Overfull \hbox (18.13301pt too wide) in paragraph at lines 246--248
 []\T2A/cmr/m/it/10 утвърдително заклю-че-ние \T2A/cmr/m/n/10 Мо-же да се напра-ви утвър-ди-тел-но заклю-че-ние за причинно-следствената
  []
 
 [8]
-Overfull \hbox (1.25818pt too wide) in paragraph at lines 302--303
+Overfull \hbox (1.25818pt too wide) in paragraph at lines 303--304
 []\T2A/cmr/m/n/10 DerSimonian R, Laird N. (1986) Мета-анализ в кли-нич-ни из-пит-ва-ния. Control Clin Trials 7:177^^U188. 
  []
 

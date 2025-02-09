@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1729582850 "/Users/dennisbarzanoff/Developer/alcohol-study-translation/bulgarian.tex" "bulgarian.pdf" "bulgarian" 1729582852 0
-  "/Users/dennisbarzanoff/Developer/alcohol-study-translation/bulgarian.tex" 1729582848 60817 a4b9002f767e4ecb7b0725d28c39cdd7 ""
+["pdflatex"] 1729583086 "/Users/dennisbarzanoff/Developer/alcohol-study-translation/bulgarian.tex" "bulgarian.pdf" "bulgarian" 1729583088 0
+  "/Users/dennisbarzanoff/Developer/alcohol-study-translation/bulgarian.tex" 1729583086 60818 71ce86df66e28b50a8a8e8ede5175e9d ""
   "/Users/dennisbarzanoff/Library/texlive/2023/texmf-var/fonts/tfm/lh/lh-t2a/labx0900.tfm" 1729582485 3308 0e40fe47c68a93146385123973edfb65 ""
   "/Users/dennisbarzanoff/Library/texlive/2023/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1714725706 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
   "/Users/dennisbarzanoff/Library/texlive/2023/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1714725392 3308 eee81981029f67083258db36df06e523 ""
@@ -139,8 +139,8 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1710098207 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1710098119 7883454 eadbb4f9f3dd722cd7a3ff69640fd0f3 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "bulgarian.aux" 1729582852 2277 3c84ffb78a37574b7943bf69f0730ee2 "pdflatex"
-  "bulgarian.tex" 1729582848 60817 a4b9002f767e4ecb7b0725d28c39cdd7 ""
+  "bulgarian.aux" 1729583088 2277 3c84ffb78a37574b7943bf69f0730ee2 "pdflatex"
+  "bulgarian.tex" 1729583086 60818 71ce86df66e28b50a8a8e8ede5175e9d ""
   "images/Screenshot 2024-10-22 at 10.11.42.png" 1729581114 144651 6bac2e426c28a0ca9f57a4a3c06b1a2d ""
   "images/Screenshot 2024-10-22 at 10.12.52.png" 1729581176 136560 b1f9547f8765f29c4d42a15239dc63c5 ""
   "images/Screenshot 2024-10-22 at 10.13.21.png" 1729581205 122454 ab51e1589c28a7827b23628ef4fcd1d2 ""
